@@ -1,3 +1,8 @@
+Airflow
+
+Extract data from AWS S3 -> Airflow -> AWS Redshift 
+
+
 Sparkify's Event Logs Data Pipeline
 Introduction
 
