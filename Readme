@@ -3,7 +3,7 @@ Introduction
 
 This project consists of one Directed Acyclic Graph that implements the data pipeline responsible for reading all Sparkify's event logs, process and create some fact/dimensions tables described in our data schema down below.
 
-![Image] (https://raw.githubusercontent.com/KennyGha/Airflow/master/dag.png)
+![Image](https://raw.githubusercontent.com/KennyGha/Airflow/master/dag.png)
 
 
 For illustration purposes you can check out the graph that represents this pipeline's flow:
