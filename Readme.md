@@ -1,6 +1,6 @@
-Airflow
+<h2> Airflow </h2>
 
-Extract data from AWS S3 -> Airflow -> AWS Redshift 
+<h3> Extract data from AWS S3 -> Airflow -> AWS Redshift  </h3>
 
 
 Sparkify's Event Logs Data Pipeline
